@@ -1,4 +1,4 @@
-# React Food Order SPA
+# Simple Redux Demo
 
 JavaScript Redux Implementation
 
